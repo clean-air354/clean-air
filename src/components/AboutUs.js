@@ -26,27 +26,27 @@ const AboutUs = () => {
         <div className="team-members">
           <div className="team-member">
             <img
-              src="https://via.placeholder.com/150"
-              alt="Team Member"
+              src="https://via.placeholder.com/150?text=Ankur+Singh"
+              alt="Ankur"
               className="team-photo"
             />
-            <h3>John Doe</h3>
-            <p>Founder & CEO</p>
+            <h3>Ankur Singh</h3>
+            <p>Founder</p>
             <p>
-              John is the visionary behind Clean-Air. With a passion for technology
+              Ankur Singh is the visionary behind Clean-Air. With a passion for technology
               and the environment, he leads the team in making Clean-Air a reality.
             </p>
           </div>
           <div className="team-member">
             <img
-              src="https://via.placeholder.com/150"
-              alt="Team Member"
+              src="https://via.placeholder.com/150?text=Srishti+Sharma"
+              alt="Srishti"
               className="team-photo"
             />
-            <h3>Jane Smith</h3>
-            <p>Chief Technology Officer</p>
+            <h3>Srishti Sharma</h3>
+            <p>Co-Founder</p>
             <p>
-              Jane is responsible for overseeing the technological innovations that
+              Srishti is responsible for overseeing the technological innovations that
               power our Clean-Air solutions. Her expertise ensures we're always ahead
               of the curve.
             </p>
