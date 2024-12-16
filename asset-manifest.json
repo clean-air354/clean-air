@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/clean-air/static/css/main.1639f51f.css",
-    "main.js": "/clean-air/static/js/main.d7fa27bf.js",
+    "main.js": "/clean-air/static/js/main.5f414920.js",
     "static/js/488.e75445ad.chunk.js": "/clean-air/static/js/488.e75445ad.chunk.js",
     "index.html": "/clean-air/index.html",
     "main.1639f51f.css.map": "/clean-air/static/css/main.1639f51f.css.map",
-    "main.d7fa27bf.js.map": "/clean-air/static/js/main.d7fa27bf.js.map",
+    "main.5f414920.js.map": "/clean-air/static/js/main.5f414920.js.map",
     "488.e75445ad.chunk.js.map": "/clean-air/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1639f51f.css",
-    "static/js/main.d7fa27bf.js"
+    "static/js/main.5f414920.js"
   ]
 }
