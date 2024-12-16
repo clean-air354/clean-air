@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clean-air/static/css/main.143c24d0.css",
+    "main.js": "/clean-air/static/js/main.490622e9.js",
+    "static/js/488.e75445ad.chunk.js": "/clean-air/static/js/488.e75445ad.chunk.js",
+    "index.html": "/clean-air/index.html",
+    "main.143c24d0.css.map": "/clean-air/static/css/main.143c24d0.css.map",
+    "main.490622e9.js.map": "/clean-air/static/js/main.490622e9.js.map",
+    "488.e75445ad.chunk.js.map": "/clean-air/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.143c24d0.css",
+    "static/js/main.490622e9.js"
+  ]
+}
