@@ -7,26 +7,27 @@ import './ProductPage.css';
 const sampleProducts = [
   {
     _id: '1',
-    name: 'Wireless Headphones',
-    description: 'High-quality wireless headphones with noise cancellation.',
-    price: 99.99,
-    originalPrice: 129.99,
+    name: 'Indoor Air Quality Monitor',
+    description: 'Monitor and track indoor air quality with real-time data. Equipped with sensors for PM2.5, CO2, VOCs, and temperature, helping you maintain a healthy environment.',
+    price: 55,
+    originalPrice: 58,
   },
   {
     _id: '2',
-    name: 'Smartwatch',
-    description: 'Fitness tracking smartwatch with heart rate monitor.',
-    price: 149.99,
-    originalPrice: 199.99,
+    name: 'Outdoor Air Quality Monitor',
+    description: 'A rugged and weather-resistant air quality monitor designed for outdoor use. Measures pollutants like PM2.5, PM10, and ozone, providing critical environmental data.',
+    price: 65,
+    originalPrice: 69,
   },
   {
     _id: '3',
-    name: 'Bluetooth Speaker',
-    description: 'Portable Bluetooth speaker with deep bass.',
-    price: 49.99,
-    originalPrice: 59.99,
+    name: 'Air Purifier',
+    description: 'Advanced air purifier with HEPA filtration, designed to remove airborne particles, allergens, and pollutants. Ideal for homes, offices, or any indoor environment.',
+    price: 99,
+    originalPrice: 100,
   },
 ];
+
 
 const ProductPage = () => {
   const [products, setProducts] = useState(sampleProducts);

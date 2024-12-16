@@ -53,10 +53,7 @@ const Footer = () => {
         <p>© 2024</p>
       </div>
 
-      <div className="footer-logo">
-        <p>weebly</p>
-        <p>eCommerce by Square</p>
-      </div>
+      
     </footer>
   );
 };
